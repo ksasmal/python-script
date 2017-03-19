@@ -1,1 +1,3 @@
 # python-script
+
+Hey  this krish - started learning pyhon...very soon would bexpert...
